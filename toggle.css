@@ -2,10 +2,12 @@
     body{ 
         font-family: sans-serif; 
         padding: 10px; 
+        background-color: darkslategray;
+        border-radius: 75%;
     }
 
     button{ 
-        padding: 5px 5px; 
+        padding: 5px; 
         width: 50px;
         height: 25px;
         background-color: cornflowerblue;
