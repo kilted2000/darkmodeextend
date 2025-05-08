@@ -1,19 +1,19 @@
-
-    body{ 
-        font-family: sans-serif; 
-        padding: 10px; 
-        background-color: darkslategray;
-        
-    }
-
-    .contain{
-border-radius: 75%;
+body {
+  font-family: sans-serif;
 }
 
-    button{ 
-        padding: 5px; 
-        width: 50px;
-        height: 25px;
-        background-color: navy;
-        color:antiquewhite
-    }
+.contain {
+  border-radius: 75%;
+  background-color: darkslategray;
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  padding: 5px;
+  width: 50px;
+  height: 25px;
+  background-color: navy;
+  color: antiquewhite;
+}
