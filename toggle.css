@@ -1,12 +1,6 @@
 body {
   font-family: sans-serif;
-}
-
-.contain {
-  border-radius: 75%;
   background-color: darkslategray;
-  height: 100%;
-  width: 100%;
   padding: 10px;
 }
 
